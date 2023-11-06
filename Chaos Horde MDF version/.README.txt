@@ -1,0 +1,34 @@
+Chaos Horde was created by Ameen | MDF.
+Do not attempt to delete any files in this file or move any files from this file. Failure in doing so may result in Chaos Horde not working.
+This version is 1.3.
+
+Thank you for giving my game a shot. This was the first game I've made so I thank you for playing it.
+
+ 
+To play the game you will need to extract the ZIP File and then just double click the file "ChaosHorde.exe"
+
+Extract from the website:
+	
+	Basic Information
+	Chaos Horde is my very first game I've made. Chaos Horde is a 2D horde game where the aim is to survive as many waves as you can. The sprites are not very good currently but if this game does get a decent amount of interest then I will improve them in later updates.
+
+	Controls
+	D or Right Arrow key = Move right
+	A or Left Arrow key = Move left
+	W or Up Arrow key = ?
+	D or Down Arrow key = ?
+	Space = Jump
+	P = Shoot
+	Space = Jump
+	R = Reload
+	S = Dash
+	U = Upgrade(Cost: 50 Points)
+	O = Perk(Cost: 200 Points)
+	H = Upgrade(Cost: 50 Points)
+	F = Perk(Cost: 1000 Points)
+	M = Upgrade(Cost: 50 Points)
+	I = Perk(Cost: 200 Points)
+	E = Upgrade(Cost: 50 Points)
+	T = Exchange(Cost: -30 Points)
+
+​	Note: That when it says Upgrade/Perk/Exchange it means what it does is a secret for you and the MNA community to discovers 
